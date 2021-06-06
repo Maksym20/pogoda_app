@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\the_weather",
+    "\\the_weather\\the_weather",
+    "\\the_weather\\weather"
+  ],
+  "SelectedNode": "\\the_weather\\manage.py",
+  "PreviewInSolutionExplorer": false
+}
